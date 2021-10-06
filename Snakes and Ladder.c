@@ -5,7 +5,7 @@ int BLUE=-1,GREEN=-1,RED=-1,YELLOW=-1;  //tokens
 
 int H[] = {17,54,64,62,87,93,95};    //snake's head
 int T[] = {7,26,41,19,36,5,75};   //snake's tail
-
+int ff = 0;
 int B[] = {4,8,9,21,47,72,80};   //ladder's bottom
 int Tp[] = {37,14,31,42,84,91,99};   //ladder's top
 
